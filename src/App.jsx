@@ -14,6 +14,7 @@ function Header() {
   );
 }
 
+
 // SongCard component
 function SongCard({ title, artist, image }) {
   return (
